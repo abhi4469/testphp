@@ -2,7 +2,7 @@
 <html>
 <body>
 
-<hs1>This is s2i  /h1>
+<h1>This is s2i-openshift  </h1>
 
 <?php
 echo "Hello coming from php git World!";
