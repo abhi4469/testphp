@@ -8,6 +8,7 @@
 echo "Hello coming from php git World!s2i";
 echo "This is s2i project of openshift 4.4"
 echo "Work Hard"
+echo "Read carefully"
 ?>
 
 </body>
