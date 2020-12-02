@@ -6,7 +6,8 @@
 
 <?php
 echo "Hello coming from php git World!s2i";
-echo "This is s2i project of openshift 3.11"
+echo "This is s2i project of openshift 4.4"
+echo "Work Hard"
 ?>
 
 </body>
